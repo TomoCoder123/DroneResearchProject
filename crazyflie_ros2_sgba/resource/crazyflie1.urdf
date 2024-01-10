@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<robot name="Crazyflie1">
+    <webots>
+        <plugin type="crazyflie_ros2_sgba.sgba_controller.sgbaDriver" />
+        <!--device reference="lidar" type="Lidar">
+            <ros>
+                <enabled>true</enabled>
+                <updateRate>10</updateRate>
+                <topicName>/scan</topicName>
+                <alwaysOn>true</alwaysOn>
+                <frameName>base_link</frameName>
+            </ros>
+        </device-->
+    </webots>
+</robot>
