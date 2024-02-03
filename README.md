@@ -13,5 +13,3 @@ We would like to extend our heartfelt thanks and acknowledgement to **CrazyFlie*
 
 ## About the Project
 - **Objective:** To create a swarm of drones capable of autonomously following walls in a coordinated manner using SGBA.
-- **Technology Stack:** Includes [list technologies used, e.g., specific programming languages, hardware specifications, etc.].
-- **Implementation Details:** [Provide a brief overview of how the project is implemented, highlighting any unique aspects of the design or approach.]
